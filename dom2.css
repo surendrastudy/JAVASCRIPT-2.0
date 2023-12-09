@@ -1,0 +1,16 @@
+#box{
+    height: 190px;
+    width: 100px;
+    background: pink;
+    color: white;
+    border: 2px solid black;
+}
+
+.para{
+    color: red;
+
+}
+
+.newclass {
+    background-color: green;
+}
