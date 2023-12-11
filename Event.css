@@ -1,0 +1,17 @@
+div{
+    color: white;
+    height: 100px;
+    width: 100px;
+    background: blue;
+    border: 2px solid black;
+    margin-top: 5px;
+}
+
+.dark{
+    background: #000;
+    color:white;
+}
+.light{
+    background: white;
+    color: black;
+}
